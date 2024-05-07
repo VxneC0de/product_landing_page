@@ -242,3 +242,13 @@ footer span {
     font-size: 0.9em;
     color: white;
 }
+
+@media screen and (max-width: 800px){
+    .nav ul {
+        width: 50vw;
+    }
+
+    .product {
+        width: 220px;
+    }
+}
